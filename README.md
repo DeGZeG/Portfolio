@@ -12,8 +12,8 @@
   <table style="font-size: 80%" width="100%" class="w2-table-all notranslate" id="myTable">
   <thead>
     <tr class="w2-white">
-      <th width="40%">Проект</th>
-      <th width="60%">Описание</th>
+      <th width="25%">Проект</th>
+      <th width="75%">Описание</th>
     </tr>
   </thead>
   <tbody>
