@@ -1,5 +1,5 @@
 # Дмитрий Грибовский
----
+
 ### Стек технологий:
 - JavaScript, jQuery, React
 - HTML5, CSS3, SCSS, Bootstrap 4
