@@ -26,15 +26,15 @@
       <td>Верстка по скачанным в интернете урокам от Skillbox. <b>Без адаптива</b>, но есть версии на <b>1024px</b> и <b>320px</b></td>
     </tr>
     <tr>
-      <td><a href="https://degzeg.github.io/MyCompany/">"Портфолио"</a></td>
+      <td><a href="https://degzeg.github.io/MyCompany/">MyCompany</a></td>
       <td>Верстка макета из интернета. <b>Адаптивно</b></td>
     </tr>
     <tr>
-      <td><a href="https://degzeg.github.io/LetUsMake/">"Портфолио"</a></td>
+      <td><a href="https://degzeg.github.io/LetUsMake/">Let Us Make</a></td>
       <td>Верстка макета из интернета. <b>Адаптивно</b></td>
     </tr>
     <tr>
-      <td><a href="https://degzeg.github.io/JS_Todo/">"Портфолио"</a></td>
+      <td><a href="https://degzeg.github.io/JS_Todo/">JS Todo</a></td>
       <td>Простая Todo-шка с использованием <b>jQuery</b></td>
     </tr>
   </tbody>
