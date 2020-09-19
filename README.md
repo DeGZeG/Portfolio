@@ -35,6 +35,10 @@
     </tr>
     <tr>
       <td><a href="https://degzeg.github.io/JS_Todo/">JS Todo</a></td>
-      <td>Простая Todo-шка с использованием <b>jQuery</b></td>
+      <td>Простая Todo-шка</td>
+    </tr>
+    <tr>
+      <td><a href="https://degzeg.github.io/DragAndDropList/">Drag&Drop List</a></td>
+      <td>Drag&Drop список</td>
     </tr>
   </tbody>
