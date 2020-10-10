@@ -3,8 +3,12 @@
 ### Стек технологий:
 - JavaScript, jQuery, React, Redux
 - HTML5, CSS3, SCSS
-- Gulp, Webpack
+- Webpack
 - Git, Github
+
+### Знаком:
+- Bootstrap4
+- Gulp
 
 ### Портфолио:
 <div class="w2-responsive">
