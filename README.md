@@ -4,11 +4,11 @@
 - JavaScript, jQuery, React, Redux
 - HTML5, CSS3, SCSS
 - Webpack
-- Git, Github
 
 ### Знаком:
 - Bootstrap4
 - Gulp
+- Git, Github
 
 ### Портфолио:
 <div class="w2-responsive">
@@ -38,11 +38,15 @@
       <td>Верстка макета из интернета. <b>Адаптивно</b></td>
     </tr>
     <tr>
-      <td><a href="https://degzeg.github.io/JS_Todo/">JS Todo</a></td>
+      <td><a href="https://degzeg.github.io/JS_Todo/">Todo</a></td>
       <td>Простая Todo-шка</td>
     </tr>
     <tr>
       <td><a href="https://degzeg.github.io/DragAndDropList/">Drag&Drop List</a></td>
       <td>Drag&Drop список</td>
+    </tr>
+    <tr>
+      <td><a href="https://degzeg.github.io/NoteList/">Note List</a></td>
+      <td>Приложениие для создания заметок. Сделано на React (хуки) + Redux</td>
     </tr>
   </tbody>
