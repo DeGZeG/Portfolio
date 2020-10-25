@@ -34,8 +34,12 @@
       <td>Верстка макета из интернета. <b>Адаптивно</b></td>
     </tr>
     <tr>
-      <td><a href="https://degzeg.github.io/LetUsMake/">Let Us Make</a></td>
-      <td>Верстка макета из интернета. <b>Адаптивно</b></td>
+      <td><a href="https://degzeg.github.io/d-element-test/">D-Element Test</a></td>
+      <td>Тестовое задание для компании "Цифровой элемент". Верстка + Popup на кнопку "Let's Talk". <b>Адаптивно</b></td>
+    </tr>
+    <tr>
+      <td><a href="https://degzeg.github.io/NoteList/">Note List</a></td>
+      <td>Приложениие для создания заметок. Сделано на React (хуки) + Redux</td>
     </tr>
     <tr>
       <td><a href="https://degzeg.github.io/JS_Todo/">Todo</a></td>
