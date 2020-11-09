@@ -53,4 +53,8 @@
       <td><a href="https://degzeg.github.io/NoteList/">Note List</a></td>
       <td>Приложениие для создания заметок. Сделано на React (хуки) + Redux</td>
     </tr>
+    <tr>
+      <td><a href="https://degzeg.github.io/Tapclap-Test/">Blast Game</a></td>
+      <td>Тестовое задание для компании "Tapclap". Прототип игры с механикой Blast. Сделано на Phaser3</td>
+    </tr>
   </tbody>
