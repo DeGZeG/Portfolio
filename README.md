@@ -38,10 +38,6 @@
       <td>Тестовое задание для компании "Цифровой элемент". Верстка + Popup на кнопку "Let's Talk". <b>Адаптивно</b></td>
     </tr>
     <tr>
-      <td><a href="https://degzeg.github.io/NoteList/">Note List</a></td>
-      <td>Приложениие для создания заметок. Сделано на React (хуки) + Redux</td>
-    </tr>
-    <tr>
       <td><a href="https://degzeg.github.io/JS_Todo/">Todo</a></td>
       <td>Простая Todo-шка</td>
     </tr>
