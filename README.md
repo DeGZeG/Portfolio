@@ -35,12 +35,16 @@
       <td>Верстка макета из интернета. <b>Адаптивно</b></td>
     </tr>
     <tr>
+      <td><a href="https://degzeg.github.io/LetUsMake/">Let Us Make</a></td>
+      <td>Верстка макета из интернета. <b>Адаптивно</b></td>
+    </tr>
+    <tr>
       <td><a href="https://degzeg.github.io/d-element-test/">D-Element Test</a></td>
       <td>Тестовое задание для компании "Цифровой элемент". Верстка + Popup на кнопку "Let's Talk". <b>Адаптивно</b></td>
     </tr>
     <tr>
       <td><a href="https://degzeg.github.io/JS_Todo/">Todo</a></td>
-      <td>Простая Todo-шка</td>
+      <td>Простая Todo-шка на JavaScript</td>
     </tr>
     <tr>
       <td><a href="https://degzeg.github.io/DragAndDropList/">Drag&Drop List</a></td>
