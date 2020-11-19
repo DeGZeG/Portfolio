@@ -6,7 +6,8 @@
 - Webpack
 
 ### Знаком:
-- Bootstrap4
+- Vue
+- Bootstrap4, Less
 - Gulp
 - Git, Github
 
@@ -53,4 +54,9 @@
       <td><a href="https://degzeg.github.io/Tapclap-Test/">Blast Game</a></td>
       <td>Тестовое задание для компании "Tapclap". Прототип игры с механикой Blast. Сделано на Phaser3</td>
     </tr>
+    <tr>
+      <td><a href="https://degzeg.github.io/Animarender-Test/">Animarender Test</a></td>
+      <td>Тестовое задание для компании "Animarender". Верстка + калькулятор. Сделано на Vue.js</td>
+    </tr>
   </tbody>
+</div>
