@@ -12,7 +12,7 @@
 - Google Tag Manager, Yandex Метрика
 
 ### Портфолио:
-## 2020:
+#### 2020:
 <div class="w2-responsive">
   <font size="12px">
   <table style="font-size: 80%" width="100%" class="w2-table-all notranslate" id="myTable">
@@ -58,7 +58,7 @@
   </tbody>
 </div>
 
-##2021:
+#### 2021:
 <div class="w2-responsive">
   <font size="12px">
   <table style="font-size: 80%" width="100%" class="w2-table-all notranslate" id="myTable">
