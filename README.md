@@ -1,17 +1,18 @@
 # Дмитрий Грибовский
 
-### Стек технологий:
-- JavaScript, jQuery, React, Redux
-- HTML5, CSS3, SCSS
-- Webpack
+### Работал с:
+- JavaScript, HTML5, CSS3 (SCSS, Less)
+- React, Redux (Toolkit), Next
+- Vue, Vuex, Nuxt
 
 ### Знаком:
-- Vue
-- Bootstrap4, Less
-- Gulp
-- Git, Github
+- jQuery
+- Bootstrap4
+- Webpack
+- Google Tag Manager, Yandex Метрика
 
 ### Портфолио:
+## 2020:
 <div class="w2-responsive">
   <font size="12px">
   <table style="font-size: 80%" width="100%" class="w2-table-all notranslate" id="myTable">
@@ -23,24 +24,16 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://degzeg.github.io/NewsAgency/">Новостное агенство</a></td>
-      <td>Верстка по скачанным в интернете урокам от Skillbox. <b>Без адаптива</b>, но есть версия на <b>320px</b></td>
-    </tr>
-    <tr>
-      <td><a href="https://degzeg.github.io/MyPortfolio/">"Портфолио"</a></td>
-      <td>Верстка по скачанным в интернете урокам от Skillbox. <b>Без адаптива</b>, но есть версии на <b>1024px</b> и <b>320px</b></td>
-    </tr>
-    <tr>
       <td><a href="https://degzeg.github.io/MyCompany/">MyCompany</a></td>
-      <td>Верстка макета из интернета. <b>Адаптивно</b></td>
+      <td>Верстка макета из интернета.</td>
     </tr>
     <tr>
       <td><a href="https://degzeg.github.io/LetUsMake/">Let Us Make</a></td>
-      <td>Верстка макета из интернета. <b>Адаптивно</b></td>
+      <td>Верстка макета из интернета.</td>
     </tr>
     <tr>
       <td><a href="https://degzeg.github.io/d-element-test/">D-Element Test</a></td>
-      <td>Тестовое задание для компании "Цифровой элемент". Верстка + Popup на кнопку "Let's Talk". <b>Адаптивно</b></td>
+      <td>Тестовое задание для компании "Цифровой элемент".</td>
     </tr>
     <tr>
       <td><a href="https://degzeg.github.io/JS_Todo/">Todo</a></td>
@@ -60,7 +53,29 @@
     </tr>
     <tr>
       <td><a href="https://degzeg.github.io/Animarender-Test/">Animarender Test</a></td>
-      <td>Тестовое задание для компании "Animarender". Верстка + калькулятор. Сделано на Vue.js</td>
+      <td>Тестовое задание для компании "AnimaRender". Верстка + калькулятор. Сделано на Vue.js</td>
+    </tr>
+  </tbody>
+</div>
+
+##2021:
+<div class="w2-responsive">
+  <font size="12px">
+  <table style="font-size: 80%" width="100%" class="w2-table-all notranslate" id="myTable">
+  <thead>
+    <tr class="w2-white">
+      <th width="25%">Проект</th>
+      <th width="75%">Описание</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.animarender.com/">AnimaRender - сайт</a></td>
+      <td>Сайт AnimaRender</td>
+    </tr>
+    <tr>
+      <td><a href="https://account.animarender.com/">AnimaRender - лк</a></td>
+      <td>Личный кабинет AnimaRender</td>
     </tr>
   </tbody>
 </div>
