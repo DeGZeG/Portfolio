@@ -12,13 +12,13 @@
 - Google Tag Manager, Yandex Метрика
 
 ### Портфолио:
-
-#### 2020:
-<div class="w2-responsive">
-  <font size="12px">
-  <table style="font-size: 80%" width="100%" class="w2-table-all notranslate" id="myTable">
+<div>
+  <table>
   <thead>
-    <tr class="w2-white">
+    <tr>
+      <th colspan="2">2020</th>
+    </tr>
+    <tr>
       <th width="25%">Проект</th>
       <th width="75%">Описание</th>
     </tr>
@@ -53,18 +53,19 @@
       <td>Тестовое задание для компании "Tapclap". Прототип игры с механикой Blast. Сделано на Phaser3</td>
     </tr>
     <tr>
-      <td><a href="https://degzeg.github.io/Animarender-Test/">Animarender Test</a></td>
+      <td><a href="https://degzeg.github.io/Animarender-Test/">AnimaRender Test</a></td>
       <td>Тестовое задание для компании "AnimaRender". Верстка + калькулятор. Сделано на Vue.js</td>
     </tr>
   </tbody>
 </div>
 
-#### 2021:
-<div class="w2-responsive">
-  <font size="12px">
-  <table style="font-size: 80%" width="100%" class="w2-table-all notranslate" id="myTable">
+<div>
+  <table>
   <thead>
-    <tr class="w2-white">
+    <tr>
+      <th colspan="2">2021</th>
+    </tr>
+    <tr>
       <th width="25%">Проект</th>
       <th width="75%">Описание</th>
     </tr>
@@ -72,11 +73,17 @@
   <tbody>
     <tr>
       <td><a href="https://www.animarender.com/">AnimaRender - сайт</a></td>
-      <td>Сайт AnimaRender</td>
+      <td>
+        Сайт AnimaRender.<br/>
+        Nuxt.js
+      </td>
     </tr>
     <tr>
       <td><a href="https://account.animarender.com/">AnimaRender - лк</a></td>
-      <td>Личный кабинет AnimaRender</td>
+      <td>
+        Личный кабинет AnimaRender.<br/>
+        Vue.js
+      </td>
     </tr>
   </tbody>
 </div>
