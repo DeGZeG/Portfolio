@@ -9,8 +9,6 @@
 
 ### Знаком:
 - jQuery
-- Bootstrap4
-- Webpack
 - Google Tag Manager, Yandex Метрика
 
 ### Портфолио:
