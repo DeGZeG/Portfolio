@@ -1,8 +1,10 @@
 # Дмитрий Грибовский
 
-### Работал с:
-- JavaScript, HTML5, CSS3 (SCSS, Less)
+### Стек технологий:
+- JavaScript, HTML5, CSS3 (SCSS)
 - React, Redux (Toolkit), Next
+
+### Так же работал с:
 - Vue, Vuex, Nuxt
 
 ### Знаком:
